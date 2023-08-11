@@ -1,0 +1,12 @@
+The output below is for example1.txt
+
+The output for the LineList function is:
+[['thursday', 'post', 'on', 'time'], ['great', 'work', 'with', 'your', 'initial', 'post'], ['how', 'is', 'mr', 'rogers', 'doing']]
+
+The output for the SentenceCount function is:
+3 
+
+The output for the WordDict function is:
+{'thursday': 1, 'post': 2, 'on': 1, 'time': 1, 'great': 1, 'work': 1, 'with': 1, 'your': 1, 'initial': 1, 'how': 1, 'is': 1, 'mr': 1, 'rogers': 1, 'doing': 1}
+
+In the Results.txt file, it should have the following four lines of code:

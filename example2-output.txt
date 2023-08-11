@@ -1,0 +1,12 @@
+The output below is for example2.txt
+
+The output for the LineList function is:
+[['first', 'line', 'this', 'is', 'a', 'test', 'file'], ['this', 'is', 'second', 'line'], ['third', 'line'], [], ['and', 'subsequent', 'lines'], [], ['and', 'this', 'is', 'more']]
+
+The output for the SentenceCount function is:
+3 
+
+The output for the WordDict function is:
+{'first': 1, 'line': 3, 'this': 3, 'is': 3, 'a': 1, 'test': 1, 'file': 1, 'second': 1, 'third': 1, 'and': 2, 'subsequent': 1, 'lines': 1, 'more': 1}
+
+In the Results.txt file, it should have the following four lines of code:
